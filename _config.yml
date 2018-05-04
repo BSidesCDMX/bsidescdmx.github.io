@@ -20,6 +20,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Include maps on site
+gems:
   - jekyll-maps
 
 maps:
