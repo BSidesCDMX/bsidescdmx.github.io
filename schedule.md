@@ -12,7 +12,11 @@ You can support BSides CDMX by getting your conference tickets and all the suppo
 ### Event details
 ***Date:*** Friday June 22nd, 2018
 
-<a href="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs"><img src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs" alt="Logo"></a>
+{% google_map
+   zoom="13"
+   latitude="19.370367"
+   longitude="-99.263951"
+   marker_title="BSides CDMX!" %}
 
 ### Conference Agenda
 ***Details on talks will be made available once the final line up has been selected.***
