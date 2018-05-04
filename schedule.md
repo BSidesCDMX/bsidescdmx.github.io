@@ -10,22 +10,25 @@ Participate in BSides CDMX by attending or think about a topic for the ***Call f
 You can support BSides CDMX by getting your conference tickets and all the support we get will be used to sponsor the event only; for instance SWAG. You can support BSides CDMX directly on the Welcome pannel at the venue. ;) 
 
 ### Event details
-***Date:*** Friday June 22nd, 2018
+***When & where:*** Friday June 22nd, 2018 at Universidad Iberoamericana
 
-<div id="map" style="width:400px; height:400px; background:yellow"></div>
+<div id="map" style="width:600px;height:400px;background:white"></div>
 <script>
-	function maps() {
-		var options = {
-    		center: new google.maps.LatLng(19.370367, -99.263951),
-    		zoom: 13,
-    		mapTypeId: google.maps.MapTypeId.HYBRID
-		}
-		var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+	function initMap() {
+		var location = {lat: 19.370367, lng: -99.263951};
+		var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 15,
+			center: location
+		});
+		var marker = new google.maps.Marker({
+			position: location,
+			map: map
+		});
 	}
 </script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs&callback=myMap"></script>
-
+<script async defer
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs&callback=initMap">
+</script>
 
 ### Conference Agenda
 ***Details on talks will be made available once the final line up has been selected.***
