@@ -1,0 +1,39 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: BSides CDMX
+email: info@bsidescdmx.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to Security BSides CDMX 2018, an open event held for and by the community. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+contact: Contact us
+twitter_username: bsidescdmx
+facebook_username: bsidescdmx
+#github_username:  bsidescdmx
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+# Include maps on site
+  - jekyll-maps
+
+maps:
+  google:
+    api_key: AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

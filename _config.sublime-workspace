@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zkvl/Documents/BSdidesCDMX/MailSpeakerDetails3",
+		"/Users/zkvl/Documents/BSdidesCDMX/MailSpeakerDetails2",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/index.html",
+		"/Users/zkvl/Documents/BSdidesCDMX/MailSpeakerDetails",
+		"/Users/zkvl/Desktop/OSCP OS-26059/2. Lab/b. Public Network/iii. Hosts/Pwn/host230_kevin/01 Enum/LabStudents_Host230.nmap",
+		"/Users/zkvl/Desktop/OSCP OS-26059/2. Lab/b. students network/iii. Hosts/host230_kevin/01 Enum/LabStudents_Host230.nmap",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_sass/minima/_layout.scss",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/about.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_includes/header.html",
+		"/Users/zkvl/Desktop/Yael.JPG",
+		"/Users/zkvl/Desktop/Daniel.png",
+		"/Users/zkvl/Desktop/Patricio.png",
+		"/Users/zkvl/Desktop/Guillermo.png",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_layouts/page.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/sponsors.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_site/about/index.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_includes/footer.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/participate.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_includes/social.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_layouts/default.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_sass/_svg-icons.scss",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_collections/locations",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_config.yml",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/Gemfile",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/index.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/schedule.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_sass/minima/_base.scss",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_site/assets/main.css",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_site/feed.xml",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_sass/minima/_syntax-highlighting.scss",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_posts/2018-06-07-BSidesCDMX2018.markdown",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_includes/head.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_sass/minima.scss",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/registration.md",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_site/assets/css/style.css",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_layouts/home.html",
+		"/Library/Ruby/Gems/2.3.0/gems/minima-2.3.0/_includes/header.html",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_posts/2018-02-10-dont-know.markdown",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/_posts/2017-02-10-dont-know.markdown",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/css/main.css",
+		"/Users/zkvl/Documents/GitHub/bsidescdmx.github.io/css/style.scss",
+		"/Users/zkvl/Desktop/OSCP OS-26059/2. Lab/b. students network/iii. Hosts/host237_humble/01 Enum/LabStudents_Host237.nmap",
+		"/Users/zkvl/Desktop/OSCP OS-26059/2. Lab/b. students network/iii. Hosts/pwn3d/host136_sufferance/01 Enum/LabStudents_Host136.nmap",
+		"/Users/zkvl/Desktop/OSCP Abraham",
+		"/Volumes/WD Elements/Documents/Yael/CVs /cv_10/friggeri-cv.cls.abk.cls",
+		"/Users/zkvl/Desktop/cv_10/friggeri-cv.cls",
+		"/Volumes/WD Elements/Software/vmware/fusion 10/vmware_license",
+		"/Volumes/WD Elements/Software/sublime text 3/LICENCE"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_config.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
