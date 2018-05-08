@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: BSides CDMX
 email: info@bsidescdmx.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until next parameter
   Welcome to Security BSides CDMX 2018, an open event held for and by the community. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -16,16 +16,57 @@ facebook_username: bsidescdmx
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+
 # Include maps on site
-# gems:
 #  - jekyll-maps
 
-maps:
-  google:
-    api_key: AIzaSyCTNdMtg7T1tzmGaphNDlMD6SsDFPcOqEs
+d:
+  en:
+    description:
+      text: "Welcome to Security BSides CDMX 2018, an open event held for and by the community."
+  es:
+    description:
+      text: "Bienvenidos a Security BSides CDMX 2018, un espacio libre llevado a cabo por y para la comunidad."
+
+c:
+  en:
+    contact:
+      text: "Contact us"
+  es:
+    contact:
+      text: "Contáctanos"
+
+t:
+  en:
+    participate:
+      name: "Participate"
+      url: "/participate/"
+    schedule:
+      name: "Schedule"
+      url: "/registration/"
+    sponsors:
+      name: "Sponsors"
+      url: "/sponsors/"
+    about:
+      name: "About"
+      url: "/about/"
+  es:
+    participate:
+      name: "Participa"
+      url: "/participa/"
+    schedule:
+      name: "Agenda"
+      url: "/registro/"
+    sponsors:
+      name: "Patrocinadores"
+      url: "/patrocinadores/"
+    about:
+      name: "Acerca"
+      url: "/acerca/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 navigation_weight: 4
+lang: en
+ref: about
 ---
 
 Security BSides CDMX is an event build for and by information security community members all arround the globe that takes place in Mexico City. This very first edition is aim to bring the Security B-Sides approach to Mexico, since we believe this can be a great space and opportunity to share and acquire knowledge and experiences with people from different infosec approaches.
@@ -59,7 +61,7 @@ BSides CDMX is organized by members of the mexican infomation security community
 	<div class="row">
   		<div class="col-sm-2"><img src='../pictures/Yael.png' class='avatar' /></div>
   		<div class="col-sm-10">
-  			<a href="https://twitter.com/zkvL7"> Yael</a> is a Cyber ​​Security professional who's really into new technologies, information security, coding and research regarding new stuff. He's been working professionally within the Cyber ​​Security Industry for different organizations and he's been speaker at conferences in Las Vegas, USA; Manchester U.K. and Quebec, Canada which are the reasons why do you want to bring this experience to Mexico City.
+  			<a href="https://twitter.com/zkvL7"> Yael</a> is a Cyber ​​Security professional who's really into new technologies, information security, coding and research regarding new stuff. He's been working professionally within the Cyber ​​Security Industry for different organizations and he's been speaker at conferences in Las Vegas, USA; Manchester U.K. and Quebec, Canada which are the reasons why he wants to bring this experience to Mexico City.
   		</div>
 	</div>
 </div>

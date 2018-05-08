@@ -3,6 +3,8 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 navigation_weight: 3
+lang: en
+ref: sponsors
 ---
 
 ***We want to thank all the people around the globe that makes this community-driven space to happen*** since BSides CDMX would not be possible without the generosity of our sponsors and the participation of the security community. 

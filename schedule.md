@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 permalink: /registration/
 navigation_weight: 2
+lang: en
+ref: schedule
 ---
 
 Participate in BSides CDMX by attending or think about a topic for the ***Call for Papers*** or the ***Call for Workshops*** that you could present. This event is created and maintained by you and all the community and in order to make this happen we need your help!
@@ -11,6 +13,15 @@ You can support BSides CDMX by getting your conference tickets and all the suppo
 
 ### Event details
 ***When & where:*** Friday June 22nd, 2018 at Universidad Iberoamericana
+
+
+<!-- With maps & Jekyll locally
+{% google_map
+zoom="13"
+latitude="19.370367"
+longitude="-99.263951"
+marker_title="BSides CDMX!" %}
+-->
 
 <div id="map" style="width:600px;height:400px;background:white"></div>
 <script>
