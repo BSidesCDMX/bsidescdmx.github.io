@@ -9,7 +9,15 @@ ref: schedule
 
 Participa en BSides CDMX atendiendo al evento o con una conferencia para el ***Call for Papers*** o taller para el ***Call for Workshops***. Este evento es creado y mantenido por ti y toda la comunidad y es llevado a cabo gracias a ti, por lo que tu ayuda es necesaria.
 
-Puedes apoyar también a la realización de BSides obteniendo tickets para el evento. Este es un espacio libre y gratuito, por lo que cualquier apoyo será usado para la realización del evento únicamente; por ejemplo para el SWAG. Puedes apoyar a BSides CDMX directamente en el Panel de Bienvenida. ;)
+Aunque este es un evento gratuito, estamos limitados por el aforo del lugar. Por lo tanto, recomendamos encarecidamente obtener sus boletos con anterioridad. Ten en consideración que este es una conferencia de Seguridad por y para la comunidad y, aunque no es un evento restrictivo, es importante que la comunidad en seguridad informática y de la información sea la que asista a este evento; por tanto, si no perteneces a este tipo de público, por favor permite su registro primero.
+
+Los boletos estarán disponibles a través de Eventbrite. Si no tienes una cuenta, regístrate ahora para obtener una.
+
+<center>
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.es/countdown-widget?eid=46003210842" frameborder="0" height="466" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.es/">Powered by Eventbrite</a></div></div>
+</center>
+
+Puedes apoyar también a la realización de BSides y cualquier apoyo será usado para la realización del evento únicamente.. Puedes apoyar a BSides CDMX directamente en el Panel de Bienvenida. ;)
 
 ### Detalle del evento
 ***¿Cuándo y dónde?*** Viernes 22 de Junio en la Universidad Iberoamericana

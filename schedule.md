@@ -9,7 +9,15 @@ ref: schedule
 
 Participate in BSides CDMX by attending or think about a topic for the ***Call for Papers*** or the ***Call for Workshops*** that you could present. This event is created and maintained by you and all the community and in order to make this happen we need your help!
 
-You can support BSides CDMX by getting your conference tickets and all the support we get will be used to sponsor the event only; for instance SWAG. You can support BSides CDMX directly on the Welcome pannel at the venue. ;) 
+Although this is a free event, we are limited by the gauging of the venue. Therefore, we strongly encourage you to get your tickets previously. Take into consideration that this is a Security conference build by and for the community; we have no problem with anyone who wish to attend the venue, however it is important to allow the information security community to attend since they are the people who can best benefit from this event. **So, if you are not part of the infosec community, please wait until the due date to register.**
+
+Tickets will be available via Eventbrite. If you don't have an account please register for one.
+
+<center>
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.es/countdown-widget?eid=46003210842" frameborder="0" height="466" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.es/">Powered by Eventbrite</a></div></div>
+</center>
+
+Also, you can support BSides CDMX and everything we get will be used to sponsor the event only. You can support BSides CDMX directly on the Welcome pannel at the venue. ;) 
 
 ### Event details
 ***When & where:*** Friday June 22nd, 2018 at Universidad Iberoamericana
