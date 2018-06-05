@@ -13,8 +13,13 @@ If you wish to sponsor Security BSides CDMX 2018, please conntact us at <a href=
 
 The event is being scheduled to run on ***June 22nd, 2018***.
 
-### Sponsor categories
-	Platinum
-	Gold
-	Silver
-	Community
+### BSides CDMX is happily sponsored by
+
+<div class="container sponsors">
+	<div class="row">
+	     <a href="https://www.cisco.com/c/es_mx/index.html"> 
+	     	<img src="../pictures/sponsors/cisco.png" alt="CISCO"> </a> 
+	     <a href="https://www.fireeye.com/"> 
+	     	<img src="../pictures/sponsors/fireeye.png" alt="FireEye"> </a>
+	</div>
+</div>
