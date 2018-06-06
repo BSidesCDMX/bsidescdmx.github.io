@@ -17,6 +17,8 @@ BSides CDMX se llevará a cabo el próximo ***22 de Junio de 2018***.
 
 <div class="container sponsors">
 	<div class="row">
+		<a href="http://www.ibero.mx/"> 
+	     	<img src="../pictures/sponsors/ibero.jpg" alt="FireEye"> </a>
 	     <a href="https://www.cisco.com/c/es_mx/index.html"> 
 	     	<img src="../pictures/sponsors/cisco.png" alt="CISCO"> </a> 
 	     <a href="https://www.fireeye.com/"> 

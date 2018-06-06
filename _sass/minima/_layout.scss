@@ -253,6 +253,9 @@
   }
 }
 
+/**
+ * Avatar
+ */
 .avatar {
     width:100px;
     height:100px;
@@ -260,10 +263,16 @@
     border:5px solid #666;
 }
 
+/**
+ * Multilanguage support
+ */
 .en:lang(en), .es:lang(es) {
     font-weight: bold;
 }
 
+/**
+ * Sponsors logos
+ */
 .sponsors img {
     margin: 30px 20px;
     max-height: 100px;
@@ -287,4 +296,42 @@ a {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+/**
+ * Schedule 
+ */
+.agenda {  }
+
+/* Dates */
+.agenda .agenda-date { width: 140px; }
+.agenda .agenda-date .dayofmonth {
+    width: 40px;
+    font-size: 36px;
+    line-height: 36px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+  font-size: 0.75em; 
+}
+.agenda .agenda-title {
+  text-align: center;
+}
+
+/* Times */
+.agenda .agenda-time { 
+  width: 180px; 
+  text-align: center;
+} 
+
+/* Events */
+.agenda .agenda-events { width: 180px; } 
+.agenda .agenda-events .agenda-event { 
+  text-align: center;
+} 
+
+@media (max-width: 500px) {
+    
 }
