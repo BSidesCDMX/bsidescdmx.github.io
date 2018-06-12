@@ -32,7 +32,7 @@ The event is being scheduled to run on ***June 22nd, 2018***.
 	<div>
 	<div name="Bronze" class="row">
 		<a href="https://www.hackersclothing.com/"> 
-	     	<img src="../pictures/sponsors/bronze/hackersclothing.png" alt="Hackers Clothing"> </a>
+	     	<img src="../pictures/sponsors/bronze/hackersClothing.png" alt="Hackers Clothing"> </a>
 	     <a href="https://www.gcsec.org/"> 
 	     	<img src="../pictures/sponsors/bronze/globalCyberSec.png" alt="Global Cyber Security"> </a>
 	<div>
