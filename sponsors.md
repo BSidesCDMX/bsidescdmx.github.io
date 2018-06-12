@@ -28,6 +28,9 @@ The event is being scheduled to run on ***June 22nd, 2018***.
                 <td>
                     <a href="https://www.cisco.com/c/es_mx/index.html"><img src="../pictures/sponsors/platinum/cisco.png" alt="CISCO"></a>
                 </td>
+                <td>
+                    <a href="https://scitum.com.mx/"><img src="../pictures/sponsors/platinum/scitum-telmex.png" alt="Scitum Telmex"></a>
+                </td>
             </tr>
         </tbody>
       </table>
