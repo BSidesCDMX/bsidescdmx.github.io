@@ -7,7 +7,7 @@ lang: es
 ref: schedule
 ---
 
-Participa en BSides CDMX atendiendo al evento o con una conferencia para el ***Call for Papers*** o taller para el ***Call for Workshops***. Este evento es creado y mantenido por ti y toda la comunidad y es llevado a cabo gracias a ti, por lo que tu ayuda es necesaria.
+El ***Call for Papers*** y ***Call for Workshops*** se encuentra cerrado en este momento. Muy pronto publicaremos la agenda final para que puedas planear tu visita al evento.
 
 Aunque este es un evento gratuito, estamos limitados por el aforo del lugar. Por lo tanto, recomendamos encarecidamente obtener sus boletos con anterioridad. Ten en consideración que este es una conferencia de Seguridad por y para la comunidad y, aunque no es un evento restrictivo, es importante que la comunidad en seguridad informática y de la información sea la que asista a este evento; por tanto, si no perteneces a este tipo de público, por favor permite su registro primero.
 
