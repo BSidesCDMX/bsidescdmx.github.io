@@ -16,12 +16,24 @@ BSides CDMX se llevará a cabo el próximo ***22 de Junio de 2018***.
 ### BSides CDMX es patrocinado por 
 
 <div class="container sponsors">
-	<div class="row">
-		<a href="http://www.ibero.mx/"> 
-	     	<img src="../pictures/sponsors/ibero.jpg" alt="FireEye"> </a>
+	<div name="Platinum" class="row">
 	     <a href="https://www.cisco.com/c/es_mx/index.html"> 
-	     	<img src="../pictures/sponsors/cisco.png" alt="CISCO"> </a> 
-	     <a href="https://www.fireeye.com/"> 
-	     	<img src="../pictures/sponsors/fireeye.png" alt="FireEye"> </a>
+	     	<img src="../pictures/sponsors/platinum/cisco.png" alt="CISCO"> </a> 
 	</div>
+	<div name="Gold" class="row">
+		<a href="http://www.ibero.mx/"> 
+	     	<img src="../pictures/sponsors/gold/ibero.jpg" alt="Universidad Iberoamericana"> </a>
+	  	<a href="https://www.paloaltonetworks.com/"> 
+	     	<img src="../pictures/sponsors/gold/PaloAlto.png" alt="Palo Alto Networks"> </a>
+	<div>
+	<div name="Silver" class="row">
+		<a href="https://www.fireeye.com/"> 
+	     	<img src="../pictures/sponsors/silver/fireeye.png" alt="FireEye"> </a>
+	<div>
+	<div name="Bronze" class="row">
+		<a href="https://www.hackersclothing.com/"> 
+	     	<img src="../pictures/sponsors/bronze/hackersclothing.png" alt="Hackers Clothing"> </a>
+	     <a href="https://www.gcsec.org/"> 
+	     	<img src="../pictures/sponsors/bronze/globalCyberSec.png" alt="Global Cyber Security"> </a>
+	<div>
 </div>
