@@ -23,5 +23,7 @@ The event is being scheduled to run on ***June 22nd, 2018***.
 	     	<img src="../pictures/sponsors/cisco.png" alt="CISCO"> </a> 
 	     <a href="https://www.fireeye.com/"> 
 	     	<img src="../pictures/sponsors/fireeye.png" alt="FireEye"> </a>
+	     <a href="https://www.hackersclothing.com/"> 
+	     	<img src="../pictures/sponsors/hackersclothing.png" alt="Hackers Clothing"> </a>
 	</div>
 </div>

@@ -304,7 +304,7 @@ a {
 .agenda {  }
 
 /* Dates */
-.agenda .agenda-date { width: 140px; }
+.agenda .agenda-date { }
 .agenda .agenda-date .dayofmonth {
     width: 40px;
     font-size: 36px;
@@ -323,15 +323,15 @@ a {
 /* Times */
 .agenda .agenda-time { 
   width: 180px; 
-  text-align: center;
+  text-align: left;
 } 
 
 /* Events */
-.agenda .agenda-events { width: 180px; } 
+.agenda .agenda-events { } 
 .agenda .agenda-events .agenda-event { 
   text-align: center;
 } 
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
     
 }
