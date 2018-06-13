@@ -20,9 +20,11 @@ Tickets will be available via Eventbrite. If you don't have an account please re
 Also, you can support BSides CDMX and everything we get will be used to sponsor the event only. You can support BSides CDMX directly on the Welcome pannel at the venue. ;) 
 
 ### Event details
-***When & where:*** Friday June 22nd, 2018 at Universidad Iberoamericana
+***When & where:*** Friday June 22nd, 2018 at Universidad Iberoamericana. Crescencio Ballesteros auditorium, Building "F", Ground floor.
 
+<center>
 <div id="map" style="width:600px;height:400px;background:white"></div>
+</center>
 <script>
 	function initMap() {
 		var location = {lat: 19.370367, lng: -99.263951};
@@ -41,7 +43,293 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
 </script>
 
 ### Conference Agenda
-***Details on talks will be made available once the final line up has been selected.***
+<div class="agenda">
+    <div class="table-responsive">
+        <table class="table table-condensed table-bordered">
+            <thead align="center">
+                <tr>
+                    <th class="agenda-date" class="active" >
+                    	<div class="dayofmonth">22</div>
+                        <div class="dayofweek">Friday</div>
+                        <div class="shortdate text-muted">June, 2018</div>
+                    </th>
+                    <th class="agenda-title">Track 1</th>
+                    <th class="agenda-title">Track 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="agenda-time">
+                        9:00 - 9:30 AM 
+                    </td>
+                    <td class="agenda-events" colspan="2">
+                        <div class="agenda-event">
+                            Registration
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        9:30 - 10:00 AM 
+                    </td>
+                    <td class="agenda-events" colspan="2">
+                        <div class="agenda-event">
+                            Welcome board
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        10:00 - 10:45 AM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Sap Netweaver - Information disclosure vulnerability</b><br>
+                            Francisco Leon Gil (arphanetx) <br>
+                            (Spanish/ English)
+                        </div>
+                    </td>
+                    <td class="agenda-events" rowspan="2">
+                        <div class="agenda-event">
+                            <b>Honeypots 101</b><br>
+                            Miguel Bautista <br>
+                            (Spanish / English)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        11:00 - 11:45 AM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Path Of LeAst Resistance - Accelerating the search for vulnerable functions - Tool</b> <br>
+                            Ezra Caltum <br>
+                            (Spanish / English)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        12:00 - 12:30 PM 
+                    </td>
+                    <td class="agenda-events" colspan="2">
+                        <div class="agenda-event">
+                            Coffee break
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        12:30 - 13:15 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Foxes Among Us - How I Chained two Vulnerabilities to Catch a Fox and Execute Arbitrary Remote Code - Exploit</b><br>
+                            Steven Seeley (mr_me)<br>
+                            (English) 
+                        </div>
+                    </td>
+                    <td class="agenda-events" rowspan="2">
+                        <div class="agenda-event">
+                            <b>Honeypots 101</b><br>
+                            Miguel Bautista <br>
+                            (Spanish / English)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        13:30 - 14:00 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            Ibero 1
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        14:00 - 15:00 PM 
+                    </td>
+                    <td class="agenda-events" colspan="2">
+                        <div class="agenda-event">
+                            Meal
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        15:00 - 15:45 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Welcome Home! - how to be a hacker in few minutes - Demo</b><br>
+                            Martin Hron (thinkcz)<br>
+                            (English) 
+                        </div>
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Hacking with Smolpion - Tool</b>
+                            Raphael L. Molina<br>
+                            (Spanish)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        16:00 - 16:45 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                        	<b>Reversing and Exploiting Telepresence Robots - Exploit</b><br>
+                            Daniel Regalado (DanUx)<br>
+                            (English) 
+                        </div>
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Murder Mystery – How Vulnerability Intelligence is Poisoning your Information Security Program</b><br>
+                            Gordon MacKay<br>
+                            (English)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        17:00 - 17:45 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Beyond 'grep strcpy' in code review - Tool</b><br>
+                            Alejandro Hernández (nitr0us) & Diego Bauche (dex)<br>
+                            (Spanish)
+                        </div>
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                           	Ibero 2
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        18:00 - 18:30 PM 
+                    </td>
+                    <td class="agenda-events" colspan="2">
+                        <div class="agenda-event">
+                            BSides CDMX 2018 closure
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
 
 ### Workshop Agenda
-***Details for workshops will be made available once they have been selected and confirmed.***
+<div class="agenda">
+    <div class="table-responsive">
+        <table class="table table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="agenda-date" class="active" >
+                    	<div class="dayofmonth">22</div>
+                        <div class="dayofweek">Friday</div>
+                        <div class="shortdate text-muted">June, 2018</div>
+                    </th>
+                    <th class="agenda-title">Workshops</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="agenda-time">
+                        9:00 - 9:30 AM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            Registration
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        9:30 - 10:00 AM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            Welcome board
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        10:00 AM - 12:00 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>ARM Assambly Basics</b><br>
+                            Luis Raul Valencia Larios <br>
+                            (Spanish)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        12:00 - 12:30 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            Coffee break
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        12:30 - 14:00 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>What is Steganography and how to eat it?</b><br>
+                            Hernan Jesus Olguin Garcia <br>
+                            (Spanish)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        14:00 - 15:00 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            Meal
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        15:00 - 17:00 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            <b>Radare2 & cutter first steps with examples</b><br>
+                            Hugo Gonzalez <br>
+                            (Spanish)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="agenda-time">
+                        18:00 - 18:30 PM 
+                    </td>
+                    <td class="agenda-events">
+                        <div class="agenda-event">
+                            BSides CDMX 2018 closure
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
