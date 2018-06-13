@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   {% include head.html %}
   <body>
     {% include header.html %}
-    <main class="page-content" aria-label="Content">
+    <main class="page-content container" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>

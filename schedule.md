@@ -7,7 +7,7 @@ lang: en
 ref: schedule
 ---
 
-Participate in BSides CDMX by attending or think about a topic for the ***Call for Papers*** or the ***Call for Workshops*** that you could present. This event is created and maintained by you and all the community and in order to make this happen we need your help!
+At the moment ***Call for Papers*** and ***Call for Workshops*** are closed. We will publish the final agenda very soon so you can plan your visit to the event.
 
 Although this is a free event, we are limited by the gauging of the venue. Therefore, we strongly encourage you to get your tickets previously. Take into consideration that this is a Security conference build by and for the community; we have no problem with anyone who wish to attend the venue, however it is important to allow the information security community to attend since they are the people who can best benefit from this event. **So, if you are not part of the infosec community, please wait until the due date to register.**
 

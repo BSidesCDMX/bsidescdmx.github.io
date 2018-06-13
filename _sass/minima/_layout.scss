@@ -271,12 +271,18 @@
 }
 
 /**
- * Sponsors logos
+ * Sponsors
  */
+
+.sponsors-title{
+    font-size: 24px;
+    padding-left: 15px;
+}
+
 .sponsors img {
     margin: 30px 20px;
     max-height: 100px;
-    max-width: 200px;
+    max-width: 100%;
 }
 img {
     vertical-align: middle;
