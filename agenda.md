@@ -329,5 +329,7 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                 </tr>
             </tbody>
         </table>
+        
+        * Los horarios pueden sufrir cambios sin previo aviso
     </div>
 </div>

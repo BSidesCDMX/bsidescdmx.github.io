@@ -331,5 +331,6 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                 </tr>
             </tbody>
         </table>
+        * This schedule is bound to changes without previous notice
     </div>
 </div>
