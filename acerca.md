@@ -2,7 +2,7 @@
 layout: page
 title: Acerca
 permalink: /acerca/
-navigation_weight: 4
+navigation_weight: 5
 lang: es
 ref: about
 ---

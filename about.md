@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-navigation_weight: 4
+navigation_weight: 5
 lang: en
 ref: about
 ---

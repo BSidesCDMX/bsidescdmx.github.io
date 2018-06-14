@@ -289,7 +289,7 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                            <b>Esteganografía: ¿Qué es y con qué se come?”</b><br>
+                            <b>Esteganografía: ¿Qué es y con qué se come?</b><br>
                             Hernan Jesus Olguin Garcia <br>
                             (Español)
                         </div>

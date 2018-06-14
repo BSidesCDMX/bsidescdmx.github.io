@@ -313,7 +313,7 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                            <b>Radare2 & cutter first steps with examples</b><br>
+                            <b>Radare2 & cutter first steps through examples</b><br>
                             Hugo Gonzalez <br>
                             (Spanish)
                         </div>

@@ -47,6 +47,9 @@ t:
     schedule:
       name: "Schedule"
       url: "/registration/"
+    speakers:
+      name: "Speakers"
+      url: "/speakers/"
     sponsors:
       name: "Sponsors"
       url: "/sponsors/"
@@ -60,6 +63,9 @@ t:
     schedule:
       name: "Agenda"
       url: "/registro/"
+    ponentes:
+      name: "Ponentes"
+      url: "/ponentes/"
     sponsors:
       name: "Patrocinadores"
       url: "/patrocinadores/"
