@@ -45,13 +45,9 @@ BSides CDMX is possible thanks to the community participation and the people aro
     <div class="col-sm-2"><img src='../pictures/speakers/steven-seeley.jpg' class='avatar' /></div>
     <div class="col-sm-10">
       <a href="https://twitter.com/steventseeley">Steven Seeley</a><br> 
-      Freelance security researcher and has discovered over 1000 critical security vulnerabilities in software products developed by vendors such as Microsoft, Oracle, Dell, Hewlett Packard, Adobe, Foxit, Trend Micro, Cisco, Apple, IBM, Symantec, SAP and many others. Previously, Steven was a lead trainer at BlackHat USA and has presented at conferences such as HiTB and Ruxcon.
-      <center><strong>Foxes Among Us - How I Chained two Vulnerabilities to Catch a Fox and Execute Arbitrary Remote Code</strong></center>
-      This talk will cover the discovery and exploitation of two vulnerabilities in Foxit Reader.
-      <ol>
-        <li> TypedArray Uninitalized Pointer Information Disclosure - Advisory: https://www.zerodayinitiative.com/advisories/ZDI-18-332/ - I used this to bypass address space layout randomization (aslr) and leak the base address of FoxitReader </li>
-        <li> Text Annotations point Use After Free Remote Code Execution - Advisory: https://www.zerodayinitiative.com/advisories/ZDI-18-342/ - I used this to gain remote code execution and bypass data execution prevention (dep) </li>
-      </ol>
+      Is a freelance security researcher and has discovered over 1000 critical security vulnerabilities in software products developed by vendors such as Microsoft, Oracle, Dell, Hewlett Packard, Adobe, Foxit, Trend Micro, Cisco, Apple, IBM, Symantec, SAP and many others. Previously, Steven was the lead trainer at BlackHat USA for the Advanced Web Attacks and Exploitation (AWAE) class and has presented at conferences such as HiTB (Netherlands) and Ruxcon (Australia).
+      <center><strong>Foxes Among Us - Foxit Reader Vulnerability Discovery and Exploitation</strong></center>
+      This talk will cover the discovery and exploitation of two memory corruption vulnerabilities in Foxit Reader that were chained together to defeat modern operating system mitigations such as address space layout randomization (aslr) and data execution prevention (dep). It will include the release of a bridgit, a windbg plugin to help discover a certain class of vulnerability, a full exploit and two live demos!
     </div>
   </div>
   <div class="row">

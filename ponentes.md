@@ -45,13 +45,9 @@ BSides CDMX es posible gracias a la participación de la comunidad y la gente al
     <div class="col-sm-2"><img src='../pictures/speakers/steven-seeley.jpg' class='avatar' /></div>
     <div class="col-sm-10">
       <a href="https://twitter.com/steventseeley">Steven Seeley</a><br> 
-      Investigador de seguridad independiente que ha descubierto más de 1000 vulnerabilidades críticas de seguridad en productos de software desarrollados por proveedores como Microsoft, Oracle, Dell, Hewlett Packard, Adobe, Foxit, Trend Micro, Cisco, Apple, IBM, Symantec, SAP y muchos otros. Anteriormente, Steven fue entrenador principal en BlackHat USA y ha presentado conferencias como HiTB y Ruxcon.
-      <center><strong>Foxes Among Us - ¿Cómo atrapar un zorro con dos vulnerabilidades y ejecutar código remoto?</strong></center>
-      Esta charla cubrirá el descubrimiento y la explotación de dos vulnerabilidades en Foxit Reader.
-      <ol>
-        <li> Divulgación de información de puntero no inicializado TypedArray - Aviso: https://www.zerodayinitiative.com/advisories/ZDI-18-332/ - Utilicé esto para evadir la aleatorización de diseño de espacio de direcciones (aslr) y filtrar la dirección base de FoxitReader </li>
-        <li> Anotaciones de texto para ejecución remota de código - Aviso: https://www.zerodayinitiative.com/advisories/ZDI-18-342/ - Utilicé esto para obtener ejecución remota de código y evadir la prevención de ejecución de datos (dep) </li>
-      </ol>
+      Es un investigador de seguridad independiente que ha descubierto más de 1000 vulnerabilidades críticas de seguridad en productos de software desarrollados por proveedores como Microsoft, Oracle, Dell, Hewlett Packard, Adobe, Foxit, Trend Micro, Cisco, Apple, IBM, Symantec, SAP y muchos otros. Anteriormente, Steven fue entrenador principal en BlackHat USA para la clase Advanced Web Attacks and Exploitation (AWAE) y ha presentado en conferencias como HiTB (Países Bajos) y Ruxcon (Australia).
+      <center><strong>Foxes Among Us - Descubrimiento y explotación de vulnerabilidades en Foxit Reader</strong></center>
+      Esta charla cubrirá el descubrimiento y la explotación de dos vulnerabilidades de corrupción de memoria en Foxit Reader que fueron encadenadas para vencer las mitigaciones modernas del sistema operativo, como la asignación aleatoria de espacio de direcciones (aslr) y la prevención de ejecución de datos (dep). Incluirá el lanzamiento de un bridgit, un complemento Windbg para ayudar a descubrir ciertas vulnerabilidades, ¡un exploit completo y dos demos en vivo!
     </div>
   </div>
   <div class="row">
