@@ -144,7 +144,9 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                            Ibero 1
+                            <b>Python applications for hacking and forensics</b><br>
+                            Omar Vázquez <br>
+                            (Spanish)
                         </div>
                     </td>
                 </tr>
@@ -209,7 +211,9 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                           	Ibero 2
+                           	<b>A crime's history: how auditing and forensics help organizations</b><br>
+                            Javier Hernández Calderón<br>
+                            (Spanish)
                         </div>
                     </td>
                 </tr>

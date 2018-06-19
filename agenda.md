@@ -142,7 +142,9 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                            Ibero 1
+                            <b>Aplicaciones de Python para Hacking y Cómputo Forense</b><br>
+                            Omar Vázquez <br>
+                            (Español)
                         </div>
                     </td>
                 </tr>
@@ -207,7 +209,9 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                     </td>
                     <td class="agenda-events">
                         <div class="agenda-event">
-                           	Ibero 2
+                           	<b>Historia de un crimen: como la auditoría y el forense ayudan a las organizaciones</b><br>
+                           	Javier Hernández Calderón<br>
+                           	(Español)
                         </div>
                     </td>
                 </tr>
