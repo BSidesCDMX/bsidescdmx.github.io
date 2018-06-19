@@ -183,7 +183,7 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                         <div class="agenda-event">
                         	<b>Ingeniería inversa y explotación de Robots de telepresencia - Exploit</b><br>
                             Daniel Regalado (DanUx)<br>
-                            (Inglés) 
+                            (Español) 
                         </div>
                     </td>
                     <td class="agenda-events">

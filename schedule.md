@@ -185,7 +185,7 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                         <div class="agenda-event">
                         	<b>Reversing and Exploiting Telepresence Robots - Exploit</b><br>
                             Daniel Regalado (DanUx)<br>
-                            (English) 
+                            (Spanish) 
                         </div>
                     </td>
                     <td class="agenda-events">
