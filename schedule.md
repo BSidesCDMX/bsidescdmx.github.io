@@ -91,7 +91,7 @@ Also, you can support BSides CDMX and everything we get will be used to sponsor 
                     </td>
                     <td class="agenda-events" rowspan="2">
                         <div class="agenda-event">
-                            <b>Honeypots 101</b><br>
+                            <b>Honeypots 101 - Workshop</b><br>
                             Miguel Bautista <br>
                             (Spanish / English)
                         </div>
