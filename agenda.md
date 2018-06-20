@@ -130,7 +130,7 @@ Puedes apoyar también a la realización de BSides y cualquier apoyo será usado
                     </td>
                     <td class="agenda-events" rowspan="2">
                         <div class="agenda-event">
-                            <b>Honeypots 101</b><br>
+                            <b>Honeypots 101 - Workshop</b><br>
                             Miguel Bautista <br>
                             (Español / Inglés)
                         </div>
