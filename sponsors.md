@@ -11,7 +11,7 @@ ref: sponsors
 
 If you wish to sponsor Security BSides CDMX 2018, please contact us at <a href="mailto:{{ sponsors@bsidescdmx.org }}"> sponsors@bsidescdmx.org</a> and we will be happy to provide more details.
 
-The event is being scheduled to run on ***June 22nd, 2018***.
+We want to thank our sponsors for all of their support during this amazing event. See you next year!
 
 ### BSides CDMX is happily sponsored by
 
